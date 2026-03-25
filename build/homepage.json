@@ -1,0 +1,32 @@
+{
+  "latest": [
+    {
+      "type": "release",
+      "title": "VS Code 1.113 release",
+      "description": "Aligning chat capabilities across local and CLI agents and introducing the Chat Customizations editor.",
+      "link": "/updates/v1_113",
+      "image": "/assets/updates/1_113/release-highlights.webp"
+    },
+    {
+      "type": "blog",
+      "title": "How VS Code builds with AI",
+      "description": "Learn how VS Code leverages AI to enhance development workflows and improve productivity.",
+      "link": "/blogs/2026/03/13/how-VS-Code-Builds-with-AI",
+      "image": "/assets/blogs/2026/03/13/vscode-build-with-ai-poster.png"
+    },
+    {
+      "type": "docs",
+      "title": "Chat Customizations editor",
+      "description": "Use the Chat Customizations editor to customize chat for your team. All from a single, unified experience.",
+      "link": "/docs/copilot/customization/overview#_chat-customizations-editor",
+      "image": "/assets/docs/copilot/customization/chat-customizations-editor.png"
+    },
+    {
+      "type": "docs",
+      "title": "Thinking and reasoning with AI agents",
+      "description": "Learn how language model thinking and reasoning works.",
+      "link": "/docs/copilot/concepts/language-models",
+      "image": "/assets/docs/copilot/language-models/thinking-effort-submenu.png"
+    }
+  ]
+}
